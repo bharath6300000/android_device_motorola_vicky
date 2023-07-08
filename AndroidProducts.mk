@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_vicky.mk
+    $(LOCAL_DIR)/twrp_vicky.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_vicky-user \
-    omni_vicky-userdebug \
-    omni_vicky-eng
+    twrp_vicky-user \
+    twrp_vicky-userdebug \
+    twrp_vicky-eng
