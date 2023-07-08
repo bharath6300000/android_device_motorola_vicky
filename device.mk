@@ -21,7 +21,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     bootctrl.mt6789 \
-    bootctrl.mt6893.recovery
+    bootctrl.mt6789.recovery
 
 PRODUCT_PACKAGES += \
     otapreopt_script \
